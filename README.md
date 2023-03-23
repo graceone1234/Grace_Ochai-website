@@ -11,4 +11,4 @@ Compared three different model to see wich is more accurate and also used confus
 # [project2: Sales analysis using SQL] (https://github.com/graceone1234/INTERNATIONAL_BREWERIES-DATA)
 In this project, some questions were answered to help the company manager make better decisions about the brewery business he is running
 
-![alt text](https://github.com/graceone1234/Fatal-Accident-EDA/blob/d4a23264ed4eaac05c854c85601729edc9de2d0e/powerbi%20prjct%20(1)%20(1).pbix)
+https://github.com/graceone1234/Fatal-Accident-EDA/blob/6faefbf528eafc19a8c680dd0e9ec7ad93b2f170/Dashboard%201.png
